@@ -211,7 +211,7 @@ License along with this program.  If not, see
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.11.3</version>
+            <version>1.15.3</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
